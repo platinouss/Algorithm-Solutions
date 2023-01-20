@@ -4,7 +4,7 @@
 <br/>
 
 ### :exclamation: 목표
-- [백준 알고리즘 문제집] (https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) 하루에 골드 이상 난이도 2문제를 해결한다. (22.11.18 ~ 진행 중)
+- [백준 알고리즘 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) 하루에 골드 이상 난이도 2문제를 해결한다. (22.11.18 ~ 진행 중)
 
 <br/>
 
