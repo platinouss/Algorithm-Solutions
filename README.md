@@ -5,7 +5,7 @@
 
 ### :exclamation: 목표
 - [백준 알고리즘 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) : 하루에 골드 이상 난이도 2문제를 해결한다. (22.11.18 ~ 23.01.30)
-- [프로그래머스 Lv2 ~ Lv5](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2%2C3%2C4%2C5&languages=java) : 하루에 2문제를 해결한다. (23.2.23 ~ 진행 중)
+- [프로그래머스 Lv2 ~ Lv5](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2%2C3%2C4%2C5&languages=java) : 하루에 2문제 이상 해결한다. (23.2.23 ~ 진행 중)
 
 <br/>
 
